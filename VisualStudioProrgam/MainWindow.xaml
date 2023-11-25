@@ -110,7 +110,7 @@
             </Grid>
             
             <!--Слой 2-->
-            <Grid Name="layer2" Visibility="Visible">
+            <Grid Name="layer2" Visibility="Collapsed">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
                     <ColumnDefinition SharedSizeGroup="column2" Width="auto"/>
